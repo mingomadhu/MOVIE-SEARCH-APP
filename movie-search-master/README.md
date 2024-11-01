@@ -21,7 +21,7 @@ Welcome to the Movie Search App! This web application allows users to search for
 
 1. Clone the repository:
     ```bash
-    git clone 
+    git clone https://github.com/mingomadhu/MOVIE-SEARCH-APP/tree/main/movie-search-master
 
 2. Navigate to the project directory:
     ```bash
